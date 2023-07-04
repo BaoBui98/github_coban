@@ -1,0 +1,6 @@
+git init(tạo project)
+git status(xem trang thái)
+git add .(thêm vào source)
+git commit -m "noi dung mô tả"
+git remote add origin https://github.com/BaoBui98/github_coban.git
+git push origin main(đẩy code lên)
