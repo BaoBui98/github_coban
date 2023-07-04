@@ -1,0 +1,5 @@
+git clone(clone code)
+git status(xem trang thái)
+git add .(thêm vào source)
+git commit -m "noi dung mô tả"
+git push origin main(đẩy code lên)
